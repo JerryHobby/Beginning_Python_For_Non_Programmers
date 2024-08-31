@@ -10,6 +10,7 @@
   * [JavaScript / TypeScript](programming-languages/javascript-typescript.md)
   * [C, C++, C#](programming-languages/c-c++-c.md)
   * [Java](programming-languages/java.md)
+  * [SQL](programming-languages/sql.md)
 * [Tools](tools/README.md)
   * [Python Interpreter](tools/python-interpreter.md)
   * [Visual Studio Code](tools/visual-studio-code.md)
