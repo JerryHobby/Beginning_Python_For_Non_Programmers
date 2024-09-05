@@ -1,4 +1,4 @@
-# Beginning Python for Non-Programmers
+# Introduction to Programming
 
 ### Never written a line of code in your life?
 
@@ -35,6 +35,3 @@ This is a very simple example of what a computer program might do.  In reality t
 Computer programming requires special software and various tools.  Even though Python is a fairly easy to learn language, you will still need to use several tools to get everything done.  Just approach it with patience and learn what you need to know when you need to know it.   Do not worry about mastering anything. &#x20;
 
 **Always remember - it's not about what you can't do - it's about what you can do.  Every tiny step forward makes you a tiny bit stronger.  It all adds up over time.**
-
-
-
