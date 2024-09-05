@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Cover](README.md)
+* [About the Author](about-the-author.md)
 * [Introduction to Programming](introduction-to-programming/README.md)
   * [What is Programming?](introduction-to-programming/what-is-programming.md)
   * [What Programmers Do](introduction-to-programming/what-programmers-do.md)
@@ -34,6 +35,8 @@
 * [Functions and Reusability](functions-and-reusability.md)
 * [Debugging and Problem Solving](debugging-and-problem-solving.md)
 * [Exploring More Python Concepts](exploring-more-python-concepts.md)
+* [Adding Python Packages with pip](adding-python-packages-with-pip.md)
+* [Python Web Frameworks](python-web-frameworks.md)
 * [Resources for Continued Learning](resources-for-continued-learning/README.md)
   * [CodeAcademy.com](resources-for-continued-learning/codeacademy.com.md)
   * [Python.org](resources-for-continued-learning/python.org.md)
@@ -45,7 +48,6 @@
   * [GameDev.tv](resources-for-continued-learning/tutorial-resources/gamedev.tv.md)
 * [Staying Motivated and Practicing Regularly](resources-for-continued-learning/staying-motivated-and-practicing-regularly.md)
 * [Appendices](appendices/README.md)
+  * [Beginner Project Ideas for Learning](appendices/beginner-project-ideas-for-learning.md)
   * [Python Cheat Sheet](appendices/python-cheat-sheet.md)
   * [Frequently Asked Questions for Beginners](appendices/frequently-asked-questions-for-beginners.md)
-  * [Beginner Project Ideas for Learning](appendices/beginner-project-ideas-for-learning.md)
-* [About the Author](about-the-author.md)
