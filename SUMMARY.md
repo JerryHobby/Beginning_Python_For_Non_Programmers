@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Introduction to Programming](README.md)
-  * [What is Programming?](introduction-to-programming/what-is-programming.md)
-  * [What Programmers Do](introduction-to-programming/what-programmers-do.md)
-  * [The Mind of a Programmer](introduction-to-programming/the-mind-of-a-programmer.md)
-  * [How Does a Programmer Think?](introduction-to-programming/how-does-a-programmer-think.md)
+* [Cover](README.md)
+  * [Introduction to Programming](cover/introduction-to-programming.md)
+  * [What is Programming?](cover/what-is-programming.md)
+  * [What Programmers Do](cover/what-programmers-do.md)
+  * [The Mind of a Programmer](cover/the-mind-of-a-programmer.md)
+  * [How Does a Programmer Think?](cover/how-does-a-programmer-think.md)
 * [Programming Languages](programming-languages/README.md)
   * [Python](programming-languages/python.md)
   * [HTML / CSS](programming-languages/html-css.md)
