@@ -1,7 +1,5 @@
 # Frequently Asked Questions for Beginners
 
-## Appendix B: Frequently Asked Questions (FAQ)
-
 As you start learning Python and programming in general, you might have questions about common challenges or concepts. Below are answers to some frequently asked questions that beginners often encounter.
 
 #### 1. What is the difference between Python 2 and Python 3?

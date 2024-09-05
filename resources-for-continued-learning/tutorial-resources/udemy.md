@@ -1,4 +1,4 @@
-# udemy
+# udemy.com
 
 {% embed url="https://www.udemy.com" %}
 
