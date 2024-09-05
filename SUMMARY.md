@@ -47,3 +47,4 @@
   * [Python Cheat Sheet](appendices/python-cheat-sheet.md)
   * [Frequently Asked Questions for Beginners](appendices/frequently-asked-questions-for-beginners.md)
   * [Beginner Project Ideas for Learning](appendices/beginner-project-ideas-for-learning.md)
+* [About the Author](about-the-author.md)
