@@ -17,3 +17,5 @@ layout:
 
 
 <figure><img src=".gitbook/assets/Python book cover.png" alt=""><figcaption></figcaption></figure>
+
+##### Some content generated with AI
