@@ -41,3 +41,5 @@ Visual Studio Code (VS Code) is a powerful, free code editor that's perfect for 
 ***
 
 You’ve now successfully installed Visual Studio Code and set it up for Python development on your Mac! Next, we’ll guide you through writing and running your first Python program in VS Code.
+
+##### Some content generated with AI

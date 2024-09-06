@@ -22,3 +22,5 @@ The example below embeds JavaScript into an HTML page.
 
 </html>
 ```
+
+##### Some content generated with AI

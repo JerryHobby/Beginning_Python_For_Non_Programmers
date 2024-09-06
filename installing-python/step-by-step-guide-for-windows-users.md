@@ -44,3 +44,5 @@ pip is automatically installed with Python, but it’s good to confirm it’s av
 ***
 
 With Python and pip installed, you’re now ready to start programming! In the next sections, we’ll cover setting up a development environment using Visual Studio Code.
+
+##### Some content generated with AI

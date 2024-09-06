@@ -110,3 +110,5 @@ These projects involve more advanced structures like dictionaries, file handling
 ***
 
 These project ideas provide a range of challenges for learners at different levels. As you work through these tasks, feel free to extend the projects by adding new features, exploring more advanced concepts, or customizing them to fit your interests. The goal is to keep learning, experimenting, and building your confidence in Python.
+
+##### Some content generated with AI

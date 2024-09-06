@@ -49,5 +49,5 @@ print("Welcome to Python!")
 
 Save the file, and run the program again using the same steps as before. You should now see the new message displayed in the terminal. By modifying small parts of the code and running it, you’ll start to understand how Python works and how to make the computer perform different tasks. This is just the beginning of what you can create with Python, and as you continue, you’ll learn to build more complex and interesting programs.
 
-
+##### Some content generated with AI
 

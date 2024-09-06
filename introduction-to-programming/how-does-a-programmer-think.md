@@ -34,3 +34,5 @@ That's a high level design.  We have not addressed precisely HOW to ask the user
 In the very beginning, the programmer might not know precisely how to perform each step.  The idea is to arrange the steps logically, break them down into smaller steps, and finally engineer the smaller steps.
 
 We start at the highest level and then break things down into the detail level.   In our example above, it was a very simple program.  But imagine how complicated the design is for some of the software you use today.  Some of these systems, like Adobe Photoshop, took thousands of programmers years to create.
+
+##### Some content generated with AI

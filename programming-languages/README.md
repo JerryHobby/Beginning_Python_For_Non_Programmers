@@ -68,8 +68,7 @@ There are a lot of frameworks for different things.  If you program in JavaScrip
 
 The idea of a framework is to provide a simplified way to do the most popular things.  That may included database access, graphics card programming, or web pages.
 
-
-
+##### Some content generated with AI
 
 
 

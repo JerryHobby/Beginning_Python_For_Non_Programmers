@@ -10,3 +10,5 @@ Python includes a few small programs:
 * **Pip** - A tool for adding modules that give you more features, when you need them.
 * **PipEnv** - A tool to create different environments for the different programs you write.  This becomes more important later one when you write programs that need different modules than the other programs you have written.  Like a game versus a financial app.  This becomes useful as you become more advanced.
 * **IDLE** - A built in script editor.  Most people never use this.
+
+##### Some content generated with AI

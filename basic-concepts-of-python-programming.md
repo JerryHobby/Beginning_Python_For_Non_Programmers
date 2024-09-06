@@ -36,3 +36,5 @@ In Python, you can use comments to write notes or explanations within your code.
 #### Conclusion
 
 These basic concepts are the building blocks of Python programming. Understanding variables, data types, basic operations, and how to interact with users will allow you to start creating simple yet powerful programs. In the next chapter, we’ll explore how to control the flow of your program using conditional statements and loops.
+
+##### Some content generated with AI

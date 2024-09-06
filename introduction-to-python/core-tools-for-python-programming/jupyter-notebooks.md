@@ -7,3 +7,5 @@ Jupyter Notebooks combine code, text, and visualizations in a single document. T
 Another great feature of Jupyter Notebooks is that they are highly interactive. You can change parts of your code, re-run it, and instantly see the updated output without having to run the entire script again. This helps streamline the process of troubleshooting and refining your code.
 
 You can easily try out Jupyter Notebooks online without installing anything on your computer. Services like [Google Colab](https://colab.research.google.com) allow you to create and run Python code in Jupyter Notebooks directly in your web browser. Colab is free and comes pre-installed with many popular Python libraries, making it an excellent platform for beginners to get started with Jupyter.
+
+##### Some content generated with AI

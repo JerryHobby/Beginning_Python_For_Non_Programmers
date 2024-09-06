@@ -7,3 +7,5 @@ Computers themselves are not smart; they can only do what they are explicitly to
 Think of programming as solving a puzzle. You start with a problem, like calculating someone’s age, and break it down into smaller, logical steps. Each step gets turned into code, which the computer then processes to give you a result. This process of breaking down problems into smaller tasks and writing clear, logical instructions is what programming is all about.
 
 While the idea of programming may sound intimidating at first, it’s important to remember that computers don’t expect you to be perfect from the start. Much like learning to play an instrument or speak a new language, learning to program takes time and practice. You’ll make mistakes, but these mistakes are part of the learning process. The more you practice, the better you’ll get at thinking like a programmer—breaking down problems, finding solutions, and giving clear instructions to a computer.
+
+##### Some content generated with AI

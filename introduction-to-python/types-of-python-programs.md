@@ -17,3 +17,5 @@ These are basically web pages that have sections of Python code built in.  It al
 ### Web Pages
 
 You can write entire websites using Python.  There is a couple ways of doing this.  Basically it's an Python environment that generates web pages on the fly.  You can make shopping carts or whatever type of website you need.
+
+##### Some content generated with AI

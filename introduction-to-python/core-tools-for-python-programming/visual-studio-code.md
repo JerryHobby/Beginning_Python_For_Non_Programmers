@@ -8,3 +8,4 @@ The nice thing about this text editor is that it works very well with working wi
 
 Visual Studio code is the #1 tool for all programmers, regardless of language.   There are alternatives, you don't have to use it.  There are versions for Linux, Windows, and MacOS.
 
+##### Some content generated with AI

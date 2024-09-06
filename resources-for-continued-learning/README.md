@@ -11,3 +11,5 @@ I've included a few links here to help you explore.  There are countless other t
 ### Certifications
 
 Most of these sites offer some type of certificate when you complete the course.  You can save these and build up your stack of certificates.  Just keep in mind that to hiring managers, these don't mean much.  The level of education and skill required to get a job as a programmer is far beyond what most of these courses cover.  What these certificates do is that they show you are interested in programming and have been making efforts on your own to learn.  For a new career, you will need more than a few online certificates.
+
+##### Some content generated with AI

@@ -25,3 +25,5 @@ There are other commands used to create databases and tables
 as well.  Most business applications will use a SQL type database
 and that's where you will get the data that you need to read or 
 update with your program.
+
+##### Some content generated with AI

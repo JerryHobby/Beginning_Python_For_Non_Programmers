@@ -42,3 +42,5 @@ Visual Studio Code (VS Code) is a lightweight but powerful code editor that’s 
 ***
 
 You’ve successfully installed Visual Studio Code and set it up for Python development! In the next section, we’ll cover writing and running your first Python program in VS Code.
+
+##### Some content generated with AI

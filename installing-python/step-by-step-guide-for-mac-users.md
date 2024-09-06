@@ -46,3 +46,5 @@ If you’re using a Mac, Python might already be pre-installed. However, it’s 
 ***
 
 With Python and pip installed, you’re ready to start programming in Python on your Mac! Next, we’ll cover setting up Visual Studio Code for Python development.
+
+##### Some content generated with AI

@@ -40,5 +40,5 @@ Every program has to be maintained.  Sometimes new features are added.  Sometime
 
 This is the least favorite part of programming.  Changing existing programs to add new features can make the code more complicated.  Adding one thing can break another thing.  Over time, maintenance can be so difficult you are afraid to touch the code again.  Because of this - it is important to write the code in a way to make it as easy to understand as possible.
 
-
+##### Some content generated with AI
 

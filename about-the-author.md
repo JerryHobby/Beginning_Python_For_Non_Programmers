@@ -9,3 +9,5 @@ Over the years, he programmed in various languages including JavaScript, Java, C
 {% embed url="https://www.jerryhobby.com" %}
 
 Programming is a hobby as well as a career.  Programming is like a fitness program for the brain.  Whether you become a professional programmer or just a hobbyist, programming is good for the brain.
+
+##### Some content generated with AI

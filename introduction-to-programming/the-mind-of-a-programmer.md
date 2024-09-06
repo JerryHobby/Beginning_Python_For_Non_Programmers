@@ -31,3 +31,5 @@ So while the customer is focused on the destination, the programmer is focused o
 Some problems can be foreseen and planned for.  Some things cannot be predicted.  Perhaps the customer has changes to the plan along the way.  Maybe there are difficulties you were not prepared for.  The customer might even change the final destination before you reach it.
 
 A good programmer will have a clear understand of what the customer wants and a good idea of what might go wrong, or change, along the way.  A good programmer understands that the customer rarely has a good understanding of every aspect of the journey.  They just want to arrive at the destination on time and on budget.
+
+##### Some content generated with AI

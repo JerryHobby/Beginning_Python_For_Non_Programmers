@@ -31,3 +31,5 @@ Sometimes, you might want to stop a loop early or skip to the next iteration wit
 #### Conclusion
 
 Understanding control flow is essential to writing more flexible and dynamic programs. By using conditional statements to make decisions and loops to repeat tasks, you can write programs that can adapt to various situations. In the next chapter, we’ll dive into the concept of functions, which allow you to organize your code into reusable blocks.
+
+##### Some content generated with AI
