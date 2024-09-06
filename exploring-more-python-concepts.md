@@ -47,3 +47,4 @@ You can also install external libraries using Python’s package manager, **pip*
 By exploring these additional Python concepts, you can take your programming skills to the next level. Lists, strings, dictionaries, loops, and exception handling are fundamental tools that will help you write more powerful and flexible programs. Additionally, learning how to work with files and import libraries opens up a whole world of possibilities in Python development. In the next chapter, we’ll discuss how to work on projects and apply these concepts to real-world applications.
 
 ##### Some content generated with AI
+
