@@ -20,4 +20,4 @@ layout:
 
 ##### Some content generated with AI
 
-##### Home Page - https://python.jerryhobby.com/
+##### [Home Page - https://python.jerryhobby.com/](https://python.jerryhobby.com/)
