@@ -2,6 +2,8 @@
 
 Learning to program is all about practice. Below are 30 project ideas divided into three levels: **very basic**, **beginner**, and **beginner with some experience**. These projects start small but can easily be extended as learners gain more confidence.
 
+There is a YouTube channel with a 9-hour video that walks you through dozens of tiny Python projects, increasing in complexity from "Hello World" to a variety of other small scripts.  Check it out here: [9 HOURS of Python Projects - From Beginner to Advanced](https://www.youtube.com/watch?v=NpmFbWO6HPU)
+
 ### Very Basic Project Ideas (Level 1)
 
 These projects are perfect for someone who is just starting out with Python. They involve simple concepts like variables, basic operations, input/output, and conditionals.
